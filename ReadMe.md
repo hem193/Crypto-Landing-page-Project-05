@@ -12,6 +12,6 @@ In this project, I have learned about CSS pesudo elements(before), attribute sel
 
 It took me 4 hours to complete this project.
 
-**[Live Project's netlify link](https://magical-licorice-26f5a1.netlify.app/"Project link")**
+**[Live Project's netlify link](https://magical-licorice-26f5a1.netlify.app/ "Project link")**
 
 [![Project ScreenShot](./Screenshot.png)](https://magical-licorice-26f5a1.netlify.app/ "Project link")
